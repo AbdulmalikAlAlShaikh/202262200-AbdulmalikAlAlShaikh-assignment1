@@ -172,7 +172,7 @@ This project fulfills all Assignment 1 requirements:
 ## 👨‍💻 Author
 
 **Abdulmalik Al AlShaikh**  
-Software Developer & Student
+Software Engineering Student
 
 ## 📄 License
 
